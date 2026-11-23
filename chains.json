@@ -1,0 +1,243 @@
+{
+  "version": "1.2.0",
+  "apps": {
+    "marugame": {
+      "id": "marugame",
+      "appName": "丸亀製麺公式アプリ",
+      "company": "トリドールHD",
+      "androidPackage": "com.toridoll.marugame.android",
+      "iosStoreUrl": null,
+      "webUrl": "https://jp.marugame.com/",
+      "couponSignal": "天ぷら・うどん割引クーポンやレシートQRスキャンによる来店スタンプ特典を配信。"
+    },
+    "doutor": {
+      "id": "doutor",
+      "appName": "ドトール バリューカード（DVC）アプリ",
+      "company": "ドトールコーヒー",
+      "androidPackage": "jp.co.doutor.dvc",
+      "iosStoreUrl": null,
+      "webUrl": "https://www.doutor.co.jp/",
+      "couponSignal": "ドトール・エクセルシオール等で使えるチャージ決済・ポイント還元・限定情報を配信。"
+    },
+    "tullys": {
+      "id": "tullys",
+      "appName": "タリーズコーヒージャパン公式アプリ",
+      "company": "タリーズコーヒージャパン",
+      "androidPackage": "jp.co.tullys.app",
+      "iosStoreUrl": null,
+      "webUrl": "https://www.tullys.co.jp/",
+      "couponSignal": "タリーズカード連携・Beansポイント特典・ドリンクチケット交換に対応。"
+    },
+    "saintmarc": {
+      "id": "saintmarc",
+      "appName": "サンマルクカフェ公式アプリ",
+      "company": "サンマルクホールディングス",
+      "androidPackage": "com.saintmarchd.saintmarccafe",
+      "iosStoreUrl": null,
+      "webUrl": "https://www.saint-marc-hd.com/saintmarccafe/",
+      "couponSignal": "チョコクロ等の割引クーポンや来店ポイント交換クーポンを配信。"
+    },
+    "kourakuen": {
+      "id": "kourakuen",
+      "appName": "幸楽苑公式アプリ",
+      "company": "幸楽苑",
+      "androidPackage": "jp.co.kourakuen.app.kourakuen",
+      "iosStoreUrl": null,
+      "webUrl": "https://www.kourakuen.co.jp/",
+      "couponSignal": "アプリダウンロード特典・お誕生日クーポン・来店スタンプランク特典を配信。"
+    },
+    "subway": {
+      "id": "subway",
+      "appName": "サブウェイ ジャパン公式モバイルアプリ",
+      "company": "日本サブウェイ",
+      "androidPackage": "fun.picks.picksapp.subway.android",
+      "iosStoreUrl": null,
+      "webUrl": "https://www.subway.co.jp/",
+      "couponSignal": "モバイルオーダー限定の割引クーポンやカスタマイズ注文に対応。"
+    },
+    "kappasushi": {
+      "id": "kappasushi",
+      "appName": "かっぱ寿司公式アプリ",
+      "company": "カッパ・クリエイト",
+      "androidPackage": "jp.kappasushi.app",
+      "iosStoreUrl": null,
+      "webUrl": "https://www.kappasushi.jp/",
+      "couponSignal": "順番予約・お持ち帰り注文・アプリ限定割引クーポンを配信。"
+    },
+    "myroyal": {
+      "id": "myroyal",
+      "appName": "MyROYAL（マイロイヤル）",
+      "company": "ロイヤルホールディングス",
+      "androidPackage": "li.yapp.app8B395476",
+      "iosStoreUrl": "https://myroyal.jp/",
+      "webUrl": "https://myroyal.jp/",
+      "couponSignal": "ロイヤルホスト・てんや・シズラー・シェーキーズ共通。誕生月20%OFF等。"
+    },
+    "jollypasta": {
+      "id": "jollypasta",
+      "appName": "ジョリーパスタ公式アプリ",
+      "company": "ゼンショーHD",
+      "androidPackage": "jp.co.zensho.jp",
+      "iosStoreUrl": null,
+      "webUrl": "https://www.jolly-pasta.co.jp/",
+      "couponSignal": "マイレージ「JOLLY」によるランクアップ特典・割引クーポンを配信。"
+    },
+    "ikinaristeak": {
+      "id": "ikinaristeak",
+      "appName": "いきなりステーキ公式アプリ",
+      "company": "ペッパーフードサービス",
+      "androidPackage": "jp.co.pepperfs.android",
+      "iosStoreUrl": null,
+      "webUrl": "https://ikinaristeak.com/",
+      "couponSignal": "肉マイレージカード連携・ランク特典・アプリクーポンを配信。"
+    },
+    "demaecan": {
+      "id": "demaecan",
+      "appName": "出前館",
+      "company": "出前館",
+      "androidPackage": "com.demaecan.androidapp",
+      "iosStoreUrl": null,
+      "webUrl": "https://demae-can.com/",
+      "couponSignal": "全国デリバリー・テイクアウトの割引クーポンやキャンペーンを常時配信。"
+    },
+    "tgifridays": {
+      "id": "tgifridays",
+      "appName": "TGI FRIDAYS JAPAN 公式アプリ",
+      "company": "ワタミ",
+      "androidPackage": "com.appcapsule.ac4300137001",
+      "iosStoreUrl": null,
+      "webUrl": "https://www.tgifridays.co.jp/",
+      "couponSignal": "来店ポイントやアプリ限定クーポン、WEB予約に対応。"
+    }
+  },
+  "brands": [
+    {
+      "id": "marugame",
+      "appId": "marugame",
+      "name": "丸亀製麺",
+      "category": "寿司・ラーメン・麺",
+      "freq": "always",
+      "aliases": ["丸亀製麺", "まるがめ", "ﾏﾙｶﾞﾒ", "Marugame", "うどん", "トリドール"]
+    },
+    {
+      "id": "doutor",
+      "appId": "doutor",
+      "name": "ドトールコーヒー",
+      "category": "カフェ・スイーツ",
+      "freq": "often",
+      "aliases": ["ドトール", "ﾄﾞﾄｰﾙ", "ドトールコーヒー", "Doutor", "DVC"]
+    },
+    {
+      "id": "excelsior",
+      "appId": "doutor",
+      "name": "エクセルシオール カフェ",
+      "category": "カフェ・スイーツ",
+      "freq": "often",
+      "aliases": ["エクセルシオール", "ｴｸｾﾙｼｵｰﾙ", "ドトール", "Excelsior"]
+    },
+    {
+      "id": "tullys",
+      "appId": "tullys",
+      "name": "タリーズコーヒー",
+      "category": "カフェ・スイーツ",
+      "freq": "often",
+      "aliases": ["タリーズ", "ﾀﾘｰｽﾞ", "タリーズコーヒー", "Tullys"]
+    },
+    {
+      "id": "saintmarc",
+      "appId": "saintmarc",
+      "name": "サンマルクカフェ",
+      "category": "カフェ・スイーツ",
+      "freq": "always",
+      "aliases": ["サンマルクカフェ", "サンマルク", "ｻﾝﾏﾙｸ", "Saint Marc", "チョコクロ"]
+    },
+    {
+      "id": "kourakuen",
+      "appId": "kourakuen",
+      "name": "幸楽苑",
+      "category": "寿司・ラーメン・麺",
+      "freq": "always",
+      "aliases": ["幸楽苑", "こうらくえん", "ｺｳﾗｸｴﾝ", "Kourakuen", "ラーメン"]
+    },
+    {
+      "id": "subway",
+      "appId": "subway",
+      "name": "サブウェイ",
+      "category": "ファストフード・ピザ",
+      "freq": "always",
+      "aliases": ["サブウェイ", "ｻﾌﾞｳｪｲ", "Subway", "サンドイッチ"]
+    },
+    {
+      "id": "kappasushi",
+      "appId": "kappasushi",
+      "name": "かっぱ寿司",
+      "category": "寿司・ラーメン・麺",
+      "freq": "always",
+      "aliases": ["かっぱ寿司", "かっぱずし", "ｶｯﾊﾟｽﾞｼ", "Kappa", "回転寿司"]
+    },
+    {
+      "id": "royalhost",
+      "appId": "myroyal",
+      "name": "ロイヤルホスト",
+      "category": "ファミレス・洋食",
+      "freq": "often",
+      "aliases": ["ロイヤルホスト", "ﾛｲﾔﾙﾎｽﾄ", "ロイホ", "ﾛｲﾎ", "MyROYAL", "マイロイヤル"]
+    },
+    {
+      "id": "tenya",
+      "appId": "myroyal",
+      "name": "天丼てんや",
+      "category": "牛丼・定食・和食",
+      "freq": "often",
+      "aliases": ["天丼てんや", "てんや", "ﾃﾝﾔ", "MyROYAL", "マイロイヤル"]
+    },
+    {
+      "id": "sizzler",
+      "appId": "myroyal",
+      "name": "シズラー",
+      "category": "ファミレス・洋食",
+      "freq": "often",
+      "aliases": ["シズラー", "ｼｽﾞﾗｰ", "Sizzler", "MyROYAL"]
+    },
+    {
+      "id": "jollypasta",
+      "appId": "jollypasta",
+      "name": "ジョリーパスタ",
+      "category": "ファミレス・洋食",
+      "freq": "always",
+      "aliases": ["ジョリーパスタ", "ジョリパ", "ｼﾞｮﾘﾊﾟ", "Jolly Pasta", "ゼンショー"]
+    },
+    {
+      "id": "ikinaristeak",
+      "appId": "ikinaristeak",
+      "name": "いきなり！ステーキ",
+      "category": "ファミレス・洋食",
+      "freq": "often",
+      "aliases": ["いきなりステーキ", "ｲｷﾅﾘｽﾃｰｷ", "いきなり", "肉マイレージ"]
+    },
+    {
+      "id": "ringerhut",
+      "appId": "zeetle",
+      "name": "リンガーハット（Zeetle連携）",
+      "category": "寿司・ラーメン・麺",
+      "freq": "always",
+      "aliases": ["リンガーハット", "ﾘﾝｶﾞｰﾊｯﾄ", "ちゃんぽん", "Zeetle", "ジートル"]
+    },
+    {
+      "id": "demaecan",
+      "appId": "demaecan",
+      "name": "出前館",
+      "category": "自販機・他",
+      "freq": "always",
+      "aliases": ["出前館", "でまえかん", "ﾃﾞﾏｴｶﾝ", "デリバリー"]
+    },
+    {
+      "id": "tgifridays",
+      "appId": "tgifridays",
+      "name": "TGI フライデーズ",
+      "category": "ファミレス・洋食",
+      "freq": "often",
+      "aliases": ["TGI FRIDAYS", "フライデーズ", "ﾜﾀﾐ", "ワタミ"]
+    }
+  ]
+}
